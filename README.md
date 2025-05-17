@@ -1,5 +1,7 @@
 # Warrior-Duel
 This game is a side-scrolling fighting game where the user plays as one of three warrior characters battling against vampire enemies across three increasingly difficult levels. In the game, the user selects a character (Fighter, Samurai, or Shinobi) 
+Download Sprites from - https://craftpix.net/freebies/free-shinobi-sprites-pixel-art/
+https://craftpix.net/freebies/free-vampire-pixel-art-sprite-sheets/?num=1&count=22&sq=vampire&pos=2
 
 A 2D fighting game where warriors battle against vampires across multiple stages.
 
